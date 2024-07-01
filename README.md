@@ -1,0 +1,1 @@
+* This is the project which contains the example of the gangs of four design pattern and solid principles.
