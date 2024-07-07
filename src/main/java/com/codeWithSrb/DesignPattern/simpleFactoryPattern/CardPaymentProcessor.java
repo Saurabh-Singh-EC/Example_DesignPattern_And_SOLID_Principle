@@ -1,4 +1,4 @@
-package com.codeWithSrb.DesignPattern.Factory;
+package com.codeWithSrb.DesignPattern.simpleFactoryPattern;
 
 import org.springframework.stereotype.Component;
 

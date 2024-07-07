@@ -1,4 +1,4 @@
-package com.codeWithSrb.DesignPattern.Factory;
+package com.codeWithSrb.DesignPattern.simpleFactoryPattern;
 
 public class Paypal implements PaymentType {
     @Override
